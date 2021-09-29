@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://github.com/deepak7panwar/lerna/compare/nt@1.0.3-alpha.1...nt@2.0.0) (2021-09-29)
+
+
+### Bug Fixes
+
+* change text tag ([9da27a9](https://github.com/deepak7panwar/lerna/commit/9da27a95d40e1d18696cd7ddbc86a8590b85df6d))
+
+
+
+
+
 ## [1.0.3-alpha.1](https://github.com/deepak7panwar/lerna/compare/nt@1.0.3-alpha.0...nt@1.0.3-alpha.1) (2021-09-29)
 
 
