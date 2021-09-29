@@ -5,7 +5,7 @@
 ## Usage
 you bro
 ```
-const nt = require('nt');
+const nt = require('nt');sdf
 release123
 release 23
 realse wer
